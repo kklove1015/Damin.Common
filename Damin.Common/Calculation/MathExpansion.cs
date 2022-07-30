@@ -11,7 +11,6 @@ namespace Damin.Common.Calculation
     {
         /// <summary>
         /// number를 sortation 단위로 반올림
-        ///
         /// </summary>
         /// <param name="minute">구분할 수</param>
         /// <param name="sortation">반올림 단위</param>
